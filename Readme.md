@@ -8,6 +8,8 @@ The PuzzleGame Smart Contract is a decentralized puzzle-solving game built on th
 
 ## Contract Address
 0x168857E6ad4F138e699de299379852E638DA65Dd
+![image](https://github.com/user-attachments/assets/483c3d98-e81c-4c72-a51a-e24ed4d8116b)
+
 
 ## Project Vision
 The vision of the PuzzleGame project is to create an interactive and rewarding gaming experience on the blockchain, where users can participate in solving puzzles and earn rewards. The game will be an educational and fun way to explore Ethereum smart contracts, fostering engagement in decentralized finance (DeFi) and blockchain technologies.
